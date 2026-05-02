@@ -15,6 +15,8 @@ Lately, I'm increasingly interested in **Artificial Intelligence**: both leverag
 
 ### ☁️ Cloud & Infrastructure (specialized)
 ![GCP](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_(starting)-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -32,7 +34,7 @@ Lately, I'm increasingly interested in **Artificial Intelligence**: both leverag
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-### 🤖 AI & Machine Learning Infrastructure *(learning & exploring)*
+### 🤖 AI Infrastructure *(learning & exploring)*
 - Infrastructure for training ML models on GCP (Vertex AI, GPUs, TPUs)
 - AI tools integration in Cloud workflows
 
