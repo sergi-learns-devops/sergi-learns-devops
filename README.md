@@ -94,6 +94,16 @@ Lately, I'm increasingly interested in **Artificial Intelligence**: both leverag
 
 ---
 
+## 🌐 Languages
+ 
+| Language | Level |
+|---|---|
+| 🇪🇸 Español | Nativo |
+| 🏴󠁣󠁡󠁣󠁴󠁿 Català | Natiu |
+| 🇬🇧 English | B2 — Professional working proficiency |
+ 
+---
+
 ## 🌱 Currently exploring
 
 - AI infrastructure on GCP: **Vertex AI**, GPU clusters, model training pipelines
