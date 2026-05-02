@@ -1,7 +1,7 @@
 # Hi, I'm Sergi Serra 👋
 
 **Sysadmin Cloud · Cloud Architect · GCP Specialist · Infrastructure Engineer**  
-📍 Barcelona, Spain &nbsp;|&nbsp; 📧 s.serramarques@gmail.com
+📍 La Garriga, Spain &nbsp;|&nbsp; 📧 s.serramarques@gmail.com
 
 ---
 
