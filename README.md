@@ -98,8 +98,8 @@ Lately, I'm increasingly interested in **Artificial Intelligence**: both leverag
  
 | Language | Level |
 |---|---|
-| Español | Nativo |
-| Català | Natiu |
+| Español | Native |
+| Català | Native |
 | English | B2 — Professional working proficiency |
  
 ---
