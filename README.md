@@ -16,10 +16,14 @@ Lately, I'm increasingly interested in **Artificial Intelligence**: both leverag
 ### ☁️ Cloud & Infrastructure (specialized)
 ![GCP](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat&logo=veeam&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 
 ### ⚙️ DevOps & Automation
 ![Cloud Build](https://img.shields.io/badge/Cloud_Build-4285F4?style=flat&logo=googlecloud&logoColor=white)
@@ -31,13 +35,6 @@ Lately, I'm increasingly interested in **Artificial Intelligence**: both leverag
 ### 🤖 AI & Machine Learning Infrastructure *(learning & exploring)*
 - Infrastructure for training ML models on GCP (Vertex AI, GPUs, TPUs)
 - AI tools integration in Cloud workflows
-- MLOps pipelines and model serving
-
-### 🗄️ Systems & Backup
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
-![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat&logo=veeam&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 
 ---
 
