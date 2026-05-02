@@ -1,6 +1,6 @@
 # Hi, I'm Sergi Serra 👋
 
-**Sysadmin Cloud · GCP Specialist · Infrastructure Engineer**  
+**Sysadmin Cloud · Cloud Architect · GCP Specialist · Infrastructure Engineer**  
 📍 Barcelona, Spain &nbsp;|&nbsp; 📧 s.serramarques@gmail.com
 
 ---
@@ -35,6 +35,7 @@ Lately, I'm increasingly interested in **Artificial Intelligence**: both leverag
 
 ### 🗄️ Systems & Backup
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat&logo=veeam&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 
@@ -57,41 +58,23 @@ Lately, I'm increasingly interested in **Artificial Intelligence**: both leverag
 
 ## 💼 Work experience
 
-### Sysadmin Cloud — [Altostratus Cloud Consulting](https://altostratus.es)
+### Sysadmin Cloud & Cloud Architect — [Altostratus Cloud Consulting](https://altostratus.es)
 📅 February 2022 – Present &nbsp;|&nbsp; 📍 Barcelona
-
-- Design, deployment, and maintenance of scalable infrastructures on **GCP using Terraform (IaC)**
-- Microservices-based solutions with **Cloud Run** and **GKE** in high-availability environments
-- On-premise to GCP migration management, ensuring security and efficiency
-- **CI/CD automation** using Cloud Build and GitHub Actions
-- Monitoring and logging with native GCP tools
-- Technical documentation to standardize and improve collaboration
 
 ---
 
 ### System Administrator — Igmasa Management
 📅 May 2019 – February 2022 &nbsp;|&nbsp; 📍 Barcelona
 
-- Administration of **Windows Server 2016/2019** and virtual environments (VMware, Proxmox VE)
-- Backup management with **Veeam Backup & Replication**
-- User, email, and endpoint security management
-- Participation in internal and client IT infrastructure projects
-
 ---
 
 ### IT Country Support Responsible — Panalpina Transportes Mundiales
 📅 December 2017 – May 2019 &nbsp;|&nbsp; 📍 Barcelona
 
-- First-level incident support for users across Iberia
-- User account management in Active Directory
-
 ---
 
 ### System Technician — Havas Media Group
 📅 May 2016 – May 2017 &nbsp;|&nbsp; 📍 Barcelona
-
-- Incident resolution in Windows and macOS environments
-- Active Directory administration, IP telephony, and Windows 10 rollout
 
 ---
 
@@ -115,12 +98,11 @@ Lately, I'm increasingly interested in **Artificial Intelligence**: both leverag
 ## 🌱 Currently exploring
 
 - AI infrastructure on GCP: **Vertex AI**, GPU clusters, model training pipelines
-- **MLOps** best practices and model serving at scale
-- Advanced **Kubernetes** patterns for ML workloads
+- Terragrunt
 
 ---
 
 ## 📬 Get in touch
 
 [![Email](https://img.shields.io/badge/Email-s.serramarques@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:s.serramarques@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergi_Serra-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergi-serra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergi_Serra-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/sergi-serra](https://www.linkedin.com/in/sergi-serra-marqu%C3%A9s-b507b8aa/))
