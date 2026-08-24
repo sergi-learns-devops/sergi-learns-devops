@@ -48,9 +48,9 @@ Lately, I'm increasingly interested in **Artificial Intelligence**: both leverag
 | GCP Professional Security Engineer | 2025 |
 | GCP Professional Developer | 2024 |
 | GCP Professional DevOps Engineer | 2024 |
-| GCP Professional Network Engineer | 2024 |
-| GCP Professional Cloud Architect | 2022, 2024 |
-| GCP Associate Cloud Engineer | 2022 |
+| GCP Professional Network Engineer | 2024, 2026 |
+| GCP Professional Cloud Architect | 2022, 2024, 2026 |
+| GCP Associate Cloud Engineer | 2022, 2025 |
 | Terraform Associate (003) | 2023 |
 
 ---
